@@ -30,12 +30,9 @@ public class GetTheCaptainOfTheShip {
 	
 	public String whoIsTheCaptain(){
 		List<Javaltechian> javaltechians = new ArrayList<Javaltechian>();
+		javaltechians.add(dowe);
 		
-		for (String javaltechian : populationOfTheShip.split(";")) {
-			javaltechians.add(J));
-		
-		}
-		return result:
+		return null;
 		
 	}
 }
